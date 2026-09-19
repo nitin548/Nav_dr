@@ -16,9 +16,9 @@ minority driver.
 
 | Fold | SHA-256 |
 |------|---------|
-| fold-1 | `f8e5c89e2cf12e73c75af41e75366ed6f36a3e5a8db30d178dfa6873ae4e9bdf` |
-| fold-2 | `49cecfbb3d8e25fe10566721205aaed93d1a58ad6a1925e73c011883b37aeaa2` |
-| fold-3 | `baf7c8a9ea08c713a308946a283d7f16243ed9ffd8aaa788bbe2ffda6dac4540` |
+| fold-1 | `f1fbf7fc26621874a893d6cb0b5c19c8bfefd41dd06be3495c28ce7bf080f86f` |
+| fold-2 | `a85316ff2926e2c9e1123f2b542e7946feb6e25049bca49943e36b78a6fc6e83` |
+| fold-3 | `f6dede1057b981e090a07d5e696fdd45ba30742dac8b4c4ca855f2c97838feed` |
 
 ## What This Evaluation Measures
 

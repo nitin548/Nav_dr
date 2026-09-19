@@ -17,7 +17,7 @@
   "trips": [
     {
       "id": "M (Driver B)",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/M (Driver B).csv",
+      "path": "data/canonical/M (Driver B).csv",
       "sha256": "e19498a71b069dd5b9275d55e671fc1943a472026382e6e9d681266428628d24",
       "vehicle": "M (Driver B)",
       "route": "M (Driver B)",
@@ -26,7 +26,7 @@
     },
     {
       "id": "S1",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/S1.csv",
+      "path": "data/canonical/S1.csv",
       "sha256": "dec281aeb206a6f92cd5d9f12102127f9914d8a0c88c62789d9d7b233948d4d1",
       "vehicle": "S (Driver A)",
       "route": "S1",
@@ -35,7 +35,7 @@
     },
     {
       "id": "S2",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/S2.csv",
+      "path": "data/canonical/S2.csv",
       "sha256": "5fc83fcb53467fcad527efb317ecf8b295b5b061f387433de66d8ed78f8edf01",
       "vehicle": "S (Driver A)",
       "route": "S2",
@@ -44,7 +44,7 @@
     },
     {
       "id": "S3a",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/S3a.csv",
+      "path": "data/canonical/S3a.csv",
       "sha256": "ce18f937ef1240e67a291ca1850928c342bd91cbd4aa76bf6037e1b44b1a99f2",
       "vehicle": "S (Driver A)",
       "route": "S3a",
@@ -53,7 +53,7 @@
     },
     {
       "id": "S3c",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/S3c.csv",
+      "path": "data/canonical/S3c.csv",
       "sha256": "b604fd34ee5ea031c0d700e7e955ddf4574b1215cd96437179019ae8ab3b0541",
       "vehicle": "S (Driver A)",
       "route": "S3c",
@@ -62,7 +62,7 @@
     },
     {
       "id": "S4",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/S4.csv",
+      "path": "data/canonical/S4.csv",
       "sha256": "1d802d48989d327d576d62c2590f01a3b24f13d12f49f2b4f9fbd65afa9b9079",
       "vehicle": "S (Driver A)",
       "route": "S4",
@@ -71,7 +71,7 @@
     },
     {
       "id": "V-Vfa01",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/V-Vfa01.csv",
+      "path": "data/canonical/V-Vfa01.csv",
       "sha256": "7f12b1782ca69f2abd44035d2ec4890567837348d7df2cee13a539ef9bd00f6e",
       "vehicle": "Vf (Driver E)",
       "route": "V-Vfa01",
@@ -80,7 +80,7 @@
     },
     {
       "id": "V-Vfa02",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/V-Vfa02.csv",
+      "path": "data/canonical/V-Vfa02.csv",
       "sha256": "c36bf9683a5057d6c6952794e4d9cc279b49c08c8acefd0193e9ba3dfe00134f",
       "vehicle": "Vf (Driver E)",
       "route": "V-Vfa02",
@@ -89,7 +89,7 @@
     },
     {
       "id": "Vta01a",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta01a.csv",
+      "path": "data/canonical/Vta01a.csv",
       "sha256": "0dd443b1209d805f0a91752ec5fc6da995a5cf707ec9acdaaa2359449e1ea2e6",
       "vehicle": "Vta (Driver E)",
       "route": "Vta01a",
@@ -98,7 +98,7 @@
     },
     {
       "id": "Vta01b",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta01b.csv",
+      "path": "data/canonical/Vta01b.csv",
       "sha256": "d054ada6902088a95f2c90e3bde8a6d705430fb0d5f4c9b3d10bc877fd278d53",
       "vehicle": "Vta (Driver E)",
       "route": "Vta01b",
@@ -107,7 +107,7 @@
     },
     {
       "id": "Vta02",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta02.csv",
+      "path": "data/canonical/Vta02.csv",
       "sha256": "2d544ff3d5c48e56f480f2af0fd4e4a8479f1d326c59bf9c86c562eac382ab80",
       "vehicle": "Vta (Driver E)",
       "route": "Vta02",
@@ -116,7 +116,7 @@
     },
     {
       "id": "Vta03",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta03.csv",
+      "path": "data/canonical/Vta03.csv",
       "sha256": "5c5e9bdea139a508fa4a79510c1126ef2f799bd00123fddf085d7d2cc0f3c285",
       "vehicle": "Vta (Driver E)",
       "route": "Vta03",
@@ -125,7 +125,7 @@
     },
     {
       "id": "Vta04",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta04.csv",
+      "path": "data/canonical/Vta04.csv",
       "sha256": "c90cc644be6ae14ce4294eaab7b1f0862e8f90248855c332e24ff64e2f6b48a5",
       "vehicle": "Vta (Driver E)",
       "route": "Vta04",
@@ -134,7 +134,7 @@
     },
     {
       "id": "Vta05",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta05.csv",
+      "path": "data/canonical/Vta05.csv",
       "sha256": "c567a4ca7b42d02fdb2e45b1ecd06eab9121335a18e23e010c02ac3350a94a74",
       "vehicle": "Vta (Driver E)",
       "route": "Vta05",
@@ -143,7 +143,7 @@
     },
     {
       "id": "Vta06",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta06.csv",
+      "path": "data/canonical/Vta06.csv",
       "sha256": "8d8ef9f68fc0e22e9485ed7d2c6d732eac8059a3995d54a494a1e81e1c2d7704",
       "vehicle": "Vta (Driver E)",
       "route": "Vta06",
@@ -152,7 +152,7 @@
     },
     {
       "id": "Vta07",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta07.csv",
+      "path": "data/canonical/Vta07.csv",
       "sha256": "6599b81ce4ffc77866abf0162581662d6ff09ce6bbee7f79f64e533ca2a707d0",
       "vehicle": "Vta (Driver E)",
       "route": "Vta07",
@@ -161,7 +161,7 @@
     },
     {
       "id": "Vta08",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta08.csv",
+      "path": "data/canonical/Vta08.csv",
       "sha256": "35b10462f963445c73211a1876a7d9c6dc4518797a9f43fcdcaec4e160e1dd1e",
       "vehicle": "Vta (Driver E)",
       "route": "Vta08",
@@ -170,7 +170,7 @@
     },
     {
       "id": "Vta09",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta09.csv",
+      "path": "data/canonical/Vta09.csv",
       "sha256": "ce5c00ae2a70980212caa2eb9cd4a4a9ab654cbfa243aa3bdaf845aee8a74d89",
       "vehicle": "Vta (Driver E)",
       "route": "Vta09",
@@ -179,7 +179,7 @@
     },
     {
       "id": "Vta10",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta10.csv",
+      "path": "data/canonical/Vta10.csv",
       "sha256": "4fc6e91cc197fc91eac30f614296ddb2219c6a3d9d3dc847bd042332c9e3638e",
       "vehicle": "Vta (Driver E)",
       "route": "Vta10",
@@ -188,7 +188,7 @@
     },
     {
       "id": "Vta11",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta11.csv",
+      "path": "data/canonical/Vta11.csv",
       "sha256": "08d43bb56124ffd31efd881bb07aed012975095646dfe5f9e1033de68acf040b",
       "vehicle": "Vta (Driver E)",
       "route": "Vta11",
@@ -197,7 +197,7 @@
     },
     {
       "id": "Vta12",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta12.csv",
+      "path": "data/canonical/Vta12.csv",
       "sha256": "029203306c258421b7d09938c899409c7ced302e48113b8b74dcb53d24bc9cff",
       "vehicle": "Vta (Driver E)",
       "route": "Vta12",
@@ -206,7 +206,7 @@
     },
     {
       "id": "Vta13",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta13.csv",
+      "path": "data/canonical/Vta13.csv",
       "sha256": "903affee7900b269f1167c40e025958919b4583f69d5dfba55bc952f2bfbe07e",
       "vehicle": "Vta (Driver E)",
       "route": "Vta13",
@@ -215,7 +215,7 @@
     },
     {
       "id": "Vta14",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta14.csv",
+      "path": "data/canonical/Vta14.csv",
       "sha256": "f814a290375ef40940f2dc39f7f07af3a4e8d5d7253afdb188c82d233803eb3c",
       "vehicle": "Vta (Driver E)",
       "route": "Vta14",
@@ -224,7 +224,7 @@
     },
     {
       "id": "Vta15",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta15.csv",
+      "path": "data/canonical/Vta15.csv",
       "sha256": "8f40932126cfa6a1641a743edfc0d74109be243ff0c3dcb7d4bf1eae3c36d4a2",
       "vehicle": "Vta (Driver E)",
       "route": "Vta15",
@@ -233,7 +233,7 @@
     },
     {
       "id": "Vta16",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta16.csv",
+      "path": "data/canonical/Vta16.csv",
       "sha256": "381f57dfaffa1f2f77aed99bd292cb8f87737a85fda9da1718ec82643797da80",
       "vehicle": "Vta (Driver E)",
       "route": "Vta16",
@@ -242,7 +242,7 @@
     },
     {
       "id": "Vta17",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta17.csv",
+      "path": "data/canonical/Vta17.csv",
       "sha256": "357fa9a3649ea21509fc1898642721ec62b5d90791fedc7c71a901c60d0dc237",
       "vehicle": "Vta (Driver E)",
       "route": "Vta17",
@@ -251,7 +251,7 @@
     },
     {
       "id": "Vta19",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta19.csv",
+      "path": "data/canonical/Vta19.csv",
       "sha256": "15d51d75df2d067efd052181f1a2fc1b35afeeb3baaff9742b03f4e1e8fdf9b5",
       "vehicle": "Vta (Driver E)",
       "route": "Vta19",
@@ -260,7 +260,7 @@
     },
     {
       "id": "Vta20",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta20.csv",
+      "path": "data/canonical/Vta20.csv",
       "sha256": "71f5e2b61d57ef0ed5426e949a0ee0510aa6024dd1f3ed0e62fbe31535d48304",
       "vehicle": "Vta (Driver E)",
       "route": "Vta20",
@@ -269,7 +269,7 @@
     },
     {
       "id": "Vta21",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta21.csv",
+      "path": "data/canonical/Vta21.csv",
       "sha256": "7309476e8ae8fe36e21722b43932a8faf73326b6027122a98674703608023b53",
       "vehicle": "Vta (Driver E)",
       "route": "Vta21",
@@ -278,7 +278,7 @@
     },
     {
       "id": "Vta22",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta22.csv",
+      "path": "data/canonical/Vta22.csv",
       "sha256": "dc9cc5af829cbbf92109b420b6e2b55492689841a5d6d36bc17fafbca4f64060",
       "vehicle": "Vta (Driver E)",
       "route": "Vta22",
@@ -287,7 +287,7 @@
     },
     {
       "id": "Vta23",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta23.csv",
+      "path": "data/canonical/Vta23.csv",
       "sha256": "571965ddc4d260638c6c841bb370e764cb2e9a10e10a0e47f5c70635b093ba58",
       "vehicle": "Vta (Driver E)",
       "route": "Vta23",
@@ -296,7 +296,7 @@
     },
     {
       "id": "Vta24",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta24.csv",
+      "path": "data/canonical/Vta24.csv",
       "sha256": "8f5c4c3912f80fcfe36375c70a841375d2371bb01afc8a838dc4b26181942372",
       "vehicle": "Vta (Driver E)",
       "route": "Vta24",
@@ -305,7 +305,7 @@
     },
     {
       "id": "Vta25",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta25.csv",
+      "path": "data/canonical/Vta25.csv",
       "sha256": "8a987adffcc13efb66bd72f9c7daa6120287c07fc5fdcdec977455cf135ac638",
       "vehicle": "Vta (Driver E)",
       "route": "Vta25",
@@ -314,7 +314,7 @@
     },
     {
       "id": "Vta26",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta26.csv",
+      "path": "data/canonical/Vta26.csv",
       "sha256": "533704a4aa38aeaa9c296473eb984b71998078c5b33ce9c0fc65b38f82e4e47c",
       "vehicle": "Vta (Driver E)",
       "route": "Vta26",
@@ -323,7 +323,7 @@
     },
     {
       "id": "Vta27",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta27.csv",
+      "path": "data/canonical/Vta27.csv",
       "sha256": "849f23a1cdd5770a118bdedd6258dbe4c207226fee6d28cf7eb8d8d795324479",
       "vehicle": "Vta (Driver E)",
       "route": "Vta27",
@@ -332,7 +332,7 @@
     },
     {
       "id": "Vta28",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta28.csv",
+      "path": "data/canonical/Vta28.csv",
       "sha256": "cf272216e213655199d9b4e8ad9538d85a198b46882fccf7dbe1581a36125c85",
       "vehicle": "Vta (Driver E)",
       "route": "Vta28",
@@ -341,7 +341,7 @@
     },
     {
       "id": "Vta29",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta29.csv",
+      "path": "data/canonical/Vta29.csv",
       "sha256": "5fa9946df864215e77eaa63e78a24bd640bac43c6e27c0636c4530a0cd99fecd",
       "vehicle": "Vta (Driver E)",
       "route": "Vta29",
@@ -350,7 +350,7 @@
     },
     {
       "id": "Vta30",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vta30.csv",
+      "path": "data/canonical/Vta30.csv",
       "sha256": "fae294ab0422824206636739d91583950af38c70a0371ec158c97d7cb0a271f8",
       "vehicle": "Vta (Driver E)",
       "route": "Vta30",
@@ -359,7 +359,7 @@
     },
     {
       "id": "Vtb01",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb01.csv",
+      "path": "data/canonical/Vtb01.csv",
       "sha256": "43eee42ed13fa9bec8829be978189162e3775a72c824c1190556bd72dbd4b769",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb01",
@@ -368,7 +368,7 @@
     },
     {
       "id": "Vtb02",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb02.csv",
+      "path": "data/canonical/Vtb02.csv",
       "sha256": "aca2e359f479ce371e720ca70cb8fa5afb78b8873ddf788c69aba6b9ed82d624",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb02",
@@ -377,7 +377,7 @@
     },
     {
       "id": "Vtb03",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb03.csv",
+      "path": "data/canonical/Vtb03.csv",
       "sha256": "8bb491b2f6853a2a9725c16fb938870ba2ebe51874d8aba45611f0b40645fedc",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb03",
@@ -386,7 +386,7 @@
     },
     {
       "id": "Vtb04",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb04.csv",
+      "path": "data/canonical/Vtb04.csv",
       "sha256": "49110a5ca1d35c07129951dafeb821adaef3bf821f42e7cbdba09481537455c5",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb04",
@@ -395,7 +395,7 @@
     },
     {
       "id": "Vtb05",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb05.csv",
+      "path": "data/canonical/Vtb05.csv",
       "sha256": "b30e253615fc37136e416ff174ff5b9a170edb450b4c3ce607857dd9df6de8ea",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb05",
@@ -404,7 +404,7 @@
     },
     {
       "id": "Vtb06",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb06.csv",
+      "path": "data/canonical/Vtb06.csv",
       "sha256": "e5f3e6e00bbbd88a5b0d42ada84d5f0ee30db85e6838ba94ec8472ed682d94c3",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb06",
@@ -413,7 +413,7 @@
     },
     {
       "id": "Vtb07",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb07.csv",
+      "path": "data/canonical/Vtb07.csv",
       "sha256": "05dd8ad6848b4ade7dd5831eb8507a6696be048f76b021a4cdea7e744a925c47",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb07",
@@ -422,7 +422,7 @@
     },
     {
       "id": "Vtb08",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb08.csv",
+      "path": "data/canonical/Vtb08.csv",
       "sha256": "8cc58d57d81dd8ca71223c1f037cbd848351025da1a37b3795a9306e3dbd8320",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb08",
@@ -431,7 +431,7 @@
     },
     {
       "id": "Vtb09",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb09.csv",
+      "path": "data/canonical/Vtb09.csv",
       "sha256": "549820a6359c163b16656b85223cd5c70049184cf6336462ced9d3d7d6efaec3",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb09",
@@ -440,7 +440,7 @@
     },
     {
       "id": "Vtb10",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb10.csv",
+      "path": "data/canonical/Vtb10.csv",
       "sha256": "c2c142c9f615e55ba7d42439f617aa380b6c00a4fa3da022af5c616de09e1e1a",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb10",
@@ -449,7 +449,7 @@
     },
     {
       "id": "Vtb11",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb11.csv",
+      "path": "data/canonical/Vtb11.csv",
       "sha256": "fede77c4b040ab54f35fa9f8ea30b13936e471656837c569b2f6397994b6794c",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb11",
@@ -458,7 +458,7 @@
     },
     {
       "id": "Vtb12",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vtb12.csv",
+      "path": "data/canonical/Vtb12.csv",
       "sha256": "cc2bd664fe6188666c05e2876fdcf86adab866836207615e0389924a8c644e5e",
       "vehicle": "Vtb (Driver E)",
       "route": "Vtb12",
@@ -467,7 +467,7 @@
     },
     {
       "id": "Vw02",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw02.csv",
+      "path": "data/canonical/Vw02.csv",
       "sha256": "50fc45d4a599919c47b7c88750017c06f2bf325d5ae930d6de83c09eaed16a25",
       "vehicle": "Vw (Driver E)",
       "route": "Vw02",
@@ -476,7 +476,7 @@
     },
     {
       "id": "Vw03",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw03.csv",
+      "path": "data/canonical/Vw03.csv",
       "sha256": "801c25d56f25dce8cf7028f18e3ab8a37f7deca3138c25b6d13f4911b06976e5",
       "vehicle": "Vw (Driver E)",
       "route": "Vw03",
@@ -485,7 +485,7 @@
     },
     {
       "id": "Vw04",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw04.csv",
+      "path": "data/canonical/Vw04.csv",
       "sha256": "1efe706c34d174c791ad4e1d5592031e7141002c83de5c4ab9cf5e0905f29367",
       "vehicle": "Vw (Driver E)",
       "route": "Vw04",
@@ -494,7 +494,7 @@
     },
     {
       "id": "Vw05",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw05.csv",
+      "path": "data/canonical/Vw05.csv",
       "sha256": "8ce1accb9625fbc3a6484ed00261683a491c9acc3e85d17a5b48a5224449e142",
       "vehicle": "Vw (Driver E)",
       "route": "Vw05",
@@ -503,7 +503,7 @@
     },
     {
       "id": "Vw06",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw06.csv",
+      "path": "data/canonical/Vw06.csv",
       "sha256": "612a1c572db3a9811de0fa6821b413d46df420a658f9bcc1408cdfea21323a0e",
       "vehicle": "Vw (Driver E)",
       "route": "Vw06",
@@ -512,7 +512,7 @@
     },
     {
       "id": "Vw07",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw07.csv",
+      "path": "data/canonical/Vw07.csv",
       "sha256": "6f013b2d6579a2ab8ff51d616c9848a69d1f3d307f21af0887ef89e08af0ec3b",
       "vehicle": "Vw (Driver E)",
       "route": "Vw07",
@@ -521,7 +521,7 @@
     },
     {
       "id": "Vw08",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw08.csv",
+      "path": "data/canonical/Vw08.csv",
       "sha256": "2d2dc2229c30d5fd6b0d013d291379b7e9df70089c5ee0ac1d8a30ca7e25bb51",
       "vehicle": "Vw (Driver E)",
       "route": "Vw08",
@@ -530,7 +530,7 @@
     },
     {
       "id": "Vw09",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw09.csv",
+      "path": "data/canonical/Vw09.csv",
       "sha256": "68fcfcf53a5f0f74a4c7b2ff2cdd4e2aeddd7762261ac5ff9ecef07599d8f58b",
       "vehicle": "Vw (Driver E)",
       "route": "Vw09",
@@ -539,7 +539,7 @@
     },
     {
       "id": "Vw10",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw10.csv",
+      "path": "data/canonical/Vw10.csv",
       "sha256": "10020a0eb6cd69e69ba98f9cb83fa0245238d0770089bcd15c8fad5f4ee17755",
       "vehicle": "Vw (Driver E)",
       "route": "Vw10",
@@ -548,7 +548,7 @@
     },
     {
       "id": "Vw11",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw11.csv",
+      "path": "data/canonical/Vw11.csv",
       "sha256": "c2a01a13e1504ebecd249670cf23e56f2acae90e4008d037c643df6c5648fe32",
       "vehicle": "Vw (Driver E)",
       "route": "Vw11",
@@ -557,7 +557,7 @@
     },
     {
       "id": "Vw12",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw12.csv",
+      "path": "data/canonical/Vw12.csv",
       "sha256": "adabb3f21233d47b4d89cd55c2d42a1cbfdbee622f04b46b5a2d04e3a71b3e3c",
       "vehicle": "Vw (Driver E)",
       "route": "Vw12",
@@ -566,7 +566,7 @@
     },
     {
       "id": "Vw13",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw13.csv",
+      "path": "data/canonical/Vw13.csv",
       "sha256": "3554c135d72ed1cea9a18c8ff4c8e8a8f08fbc0cdfd48cf6588b9ebc8d484789",
       "vehicle": "Vw (Driver E)",
       "route": "Vw13",
@@ -575,7 +575,7 @@
     },
     {
       "id": "Vw14a",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw14a.csv",
+      "path": "data/canonical/Vw14a.csv",
       "sha256": "200228428bb7d8f5a7e91e7afcc6b85c0894ef4c5d115e68c236e8110fde2c4b",
       "vehicle": "Vw (Driver E)",
       "route": "Vw14a",
@@ -584,7 +584,7 @@
     },
     {
       "id": "Vw14b",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw14b.csv",
+      "path": "data/canonical/Vw14b.csv",
       "sha256": "8be9035d8dbeab69f5ff809670731598d49b668bb120b3033f5b8844c07193cb",
       "vehicle": "Vw (Driver E)",
       "route": "Vw14b",
@@ -593,7 +593,7 @@
     },
     {
       "id": "Vw14c",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw14c.csv",
+      "path": "data/canonical/Vw14c.csv",
       "sha256": "0ff7f7dcfb6ceeedd1297d9051c30495c7c477830dc557d40e17d162a5103902",
       "vehicle": "Vw (Driver E)",
       "route": "Vw14c",
@@ -602,7 +602,7 @@
     },
     {
       "id": "Vw16a",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw16a.csv",
+      "path": "data/canonical/Vw16a.csv",
       "sha256": "0f0a9eae424b0126e7f2be1f22d6721dbdb9bb6b31b18ce759a5a04c743e0970",
       "vehicle": "Vw (Driver E)",
       "route": "Vw16a",
@@ -611,7 +611,7 @@
     },
     {
       "id": "Vw16b",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw16b.csv",
+      "path": "data/canonical/Vw16b.csv",
       "sha256": "9ee2ee4bc12672ea726608c4ebbf7c30535c63d3eb200623731bb2bbef195f01",
       "vehicle": "Vw (Driver E)",
       "route": "Vw16b",
@@ -620,7 +620,7 @@
     },
     {
       "id": "Vw17",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Vw17.csv",
+      "path": "data/canonical/Vw17.csv",
       "sha256": "2f1b741e0507158fbc42039995e7a0423ed4fdb32d7ebd7c47aca6ec77855d67",
       "vehicle": "Vw (Driver E)",
       "route": "Vw17",
@@ -629,7 +629,7 @@
     },
     {
       "id": "Y1",
-      "path": "/home/rimuru/Downloads/Antigravity/SIH_Pototype/data/canonical/Y1.csv",
+      "path": "data/canonical/Y1.csv",
       "sha256": "401c01cc51f8d4c7b3e71a20798b28e9cf9d3cf418a9f4eed908e9cabccf28e2",
       "vehicle": "Y (Driver D)",
       "route": "Y1",

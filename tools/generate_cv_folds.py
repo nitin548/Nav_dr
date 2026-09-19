@@ -30,7 +30,10 @@ def digest(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
 
 def main():
-    inv = json.loads(Path("data/proposed_inventory.json").read_text())
+    inv_path = Path("data/proposed_inventory.json")
+    if not inv_path.is_file():
+        inv_path = Path(__file__).resolve().parents[1] / "data/proposed_inventory.json"
+    inv = json.loads(inv_path.read_text())
     approved = [t for t in inv["trips"] if t["approved"]]
 
     # Tag each trip with its short driver label
@@ -47,19 +50,25 @@ def main():
     ]
 
     out_dir = Path("data/folds")
+    if not out_dir.parent.is_dir():
+        out_dir = Path(__file__).resolve().parents[1] / "data/folds"
     out_dir.mkdir(parents=True, exist_ok=True)
     summary = []
+    repo_root = inv_path.parent.parent
 
     for fold in folds:
         trips_out = []
         counts = {"train": 0, "dev": 0, "test": 0}
 
         for t in approved:
-            p = Path(t["path"]).resolve()
+            rel_path = f"data/canonical/{t['id']}.csv"
+            p = repo_root / rel_path
+            if not p.is_file():
+                p = Path(rel_path)
             sha = digest(p)
             entry = {
                 "id":      t["id"],
-                "path":    str(p),
+                "path":    rel_path,
                 "sha256":  sha,
                 "vehicle": t["driver"],
                 "route":   t["route"],
@@ -104,7 +113,7 @@ def main():
             "dev":         counts["dev"],
             "test":        counts["test"],
             "sha256":      fold_sha,
-            "path":        str(fold_path),
+            "path":        fold_path.as_posix(),
         })
 
         print(f"{fold['name']}: test=Driver {fold['test_driver']} "
